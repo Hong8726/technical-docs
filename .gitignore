@@ -1,0 +1,11 @@
+*.zip
+*.iml
+*.class
+*.jar
+*.war
+.DS_Store
+.idea/
+build/
+target/
+out/
+*.log
